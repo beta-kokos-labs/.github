@@ -1,5 +1,5 @@
 ## Hi there 👋, we are kokos-labs
-we make programs in js, python, etc.<br> We make lots of stuff ranging from security to experiments to those other little things.<hr> Join our volunteers [here](#) anytime, anywhere (there is service)
+we make programs in js, python, etc.<br> We make lots of stuff ranging from security to experiments to those other little things.<hr> Join our volunteers [here](#) anytime, anywhere (there is cell service or wifi)
 
 <!-- fix with actual sign up page, also add logo -->
 
