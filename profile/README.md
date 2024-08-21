@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, we are kokos-labs
+we make programs in js, python, etc. We make lots of stuff ranging from security to experiments to those other little things. Join our volunteers anytime, anywhere (there is service)
 
 <!--
 
